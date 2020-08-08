@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "domains": [
+    {"name": "apple.com"},
+    {"name": "google.com"},
+    {"name": "flatfile.io"},
+    {"name": "sedo.com"}
+  ]
 }
